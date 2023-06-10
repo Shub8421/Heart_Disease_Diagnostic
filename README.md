@@ -1,13 +1,13 @@
 # Heart_Disease_Diagnostic
-#Obective
+# Obective
 The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
-#Dataset
+# Dataset
 https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8
-#Tools
+# Tools
 Jupyter Notebook , Tableau
-#Programming Language
+# Programming Language
 Python
-#Conclusions
+# Conclusions
 1.45.87% of people suffering from heart disease.
 2. Males are more prone to heart disease.
 3. The chest pain experience in the heart disease is most likely asymptomatic. That
