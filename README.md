@@ -9,7 +9,7 @@ Jupyter Notebook , Tableau
 Python
 # Conclusions
 
-1.45.87% of people suffering from heart disease.
+1. 45.87% of people suffering from heart disease.
 
 2. Males are more prone to heart disease.
 
