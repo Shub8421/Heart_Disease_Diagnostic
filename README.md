@@ -2,7 +2,7 @@
 # Obective
 The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
 # Dataset
-https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8
+https://drive.google.com/file/d/1uqxrFsmBdUf65Bh8ZYjTmiMmjIlf0Svt/view?usp=sharing
 # Tools
 Jupyter Notebook , Tableau
 # Programming Language
