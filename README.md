@@ -21,7 +21,7 @@ have higher chances of heart disease.
 5. The cholesterol level is increase at the age of 50-60 and then continue the same
 pattern.
 
-6. The blood pressure is increase at the age of 50-65 and then continue the same
+6. The blood pressure is increase at the age of 50-60 and then continue the same
 pattern.
 
 7. We can see that ST depression is increase suddenly at the age of 30-40.
