@@ -11,9 +11,9 @@ Python
 
 1. 45.87% of people suffering from heart disease.
 
-2. Males are more prone to heart disease.
+2. Females  are more prone to heart disease.
 
-3. The chest pain experience in the heart disease is most likely asymptomatic. That
+3. The chest pain experience in the heart disease is most likely Non Anginal pain. That
 have higher chances of heart disease.
 
 4. The Cholesterol is highly risk factor which can lead to heart disease.
